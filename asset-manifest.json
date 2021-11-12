@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/news-monsters-rodolex/static/css/main.e4fae59d.chunk.css",
+    "main.js": "/news-monsters-rodolex/static/js/main.56593c3d.chunk.js",
+    "main.js.map": "/news-monsters-rodolex/static/js/main.56593c3d.chunk.js.map",
+    "runtime-main.js": "/news-monsters-rodolex/static/js/runtime-main.712eda0e.js",
+    "runtime-main.js.map": "/news-monsters-rodolex/static/js/runtime-main.712eda0e.js.map",
+    "static/js/2.4058bf1b.chunk.js": "/news-monsters-rodolex/static/js/2.4058bf1b.chunk.js",
+    "static/js/2.4058bf1b.chunk.js.map": "/news-monsters-rodolex/static/js/2.4058bf1b.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/news-monsters-rodolex/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/news-monsters-rodolex/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/news-monsters-rodolex/index.html",
+    "static/css/main.e4fae59d.chunk.css.map": "/news-monsters-rodolex/static/css/main.e4fae59d.chunk.css.map",
+    "static/js/2.4058bf1b.chunk.js.LICENSE.txt": "/news-monsters-rodolex/static/js/2.4058bf1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.712eda0e.js",
+    "static/js/2.4058bf1b.chunk.js",
+    "static/css/main.e4fae59d.chunk.css",
+    "static/js/main.56593c3d.chunk.js"
+  ]
+}
