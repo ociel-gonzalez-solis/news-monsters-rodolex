@@ -1,7 +1,7 @@
 {
   "name": "monsters-rolodex",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "homepage": "https://ociel-gonzalez-solis.github.io/news-monsters-rodolex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
